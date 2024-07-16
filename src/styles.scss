@@ -20,8 +20,10 @@ $control-border-width: 2px;
 $import-border-color: transparent;
 $input-shadow: none;
 
+@import '~bulma/bulma.sass';
 
-@import '../node_modules/bulma/bulma.sass';
+
+// @import '../node_modules/bulma/_index.scss';
 
 //Custom global styles
 
